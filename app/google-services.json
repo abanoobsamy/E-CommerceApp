@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073757693844",
+    "project_id": "e-commerce-app-c0938",
+    "storage_bucket": "e-commerce-app-c0938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073757693844:android:d5bfb6bd4e729277af1181",
+        "android_client_info": {
+          "package_name": "com.abanoob_samy.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073757693844-t35dd2ngse1qch79kak3h15m59sj8os5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwfE8IGTt_D6lNrRqcjJW9VsecPbOHAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073757693844-t35dd2ngse1qch79kak3h15m59sj8os5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
